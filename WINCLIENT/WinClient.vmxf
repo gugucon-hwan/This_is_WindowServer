@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Foundry>
+<VM>
+<VMId type="string">52 d9 6c 00 9d 00 74 05-e4 54 5c a2 30 d9 58 d7</VMId>
+<ClientMetaData>
+<clientMetaDataAttributes/>
+<HistoryEventList/></ClientMetaData>
+<vmxPathName type="string">WinClient.vmx</vmxPathName></VM></Foundry>
